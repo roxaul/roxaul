@@ -29,37 +29,12 @@ Currently, I work as a **Data Analyst**, leveraging Microsoft SQL Server for sta
 * Process Automation
 * Broadcast & Streaming Tools
 
----
-
-### 💼 Professional Experience
-
-**Data & BI Analyst | Unymos Gestão e Sistemas**
-*Oct 2024 - Nov 2025*
-* Responsible for the onboarding process of new clients, including **data normalization and standardization** to ensure integrity during migration.
-* Developed personalized **Power BI dashboards** and analytical reports to visualize KPIs and support strategic decision-making.
-* Conducted technical meetings with clients to align business rules and processes.
-
-**Support Analyst (Level 3) & NOC | Grupo Jet**
-*Jan 2023 - Oct 2023*
-* Managed and automated access creation flows and application processes.
-* Acted on the frontline of the "Caixa" bidding project, handling device configuration, dispatch, and helpdesk support.
-* Monitored network infrastructure and maintained core applications.
-
-**Previous Experience:**
-* **IT Support Specialist** - Hospital das Clínicas UFMG/EBSERH (2022-2023)
-* **International Technical Support** - GSB Solutions (Served clients like Unilever and Amway)
-* **Broadcast Producer** - Liga GG (E-sports tournament broadcasting)
-* **Javascript Developer** - Produzindo Certo (React Native development)
-* **Full-Stack Intern** - Supera Inovação (Angular, React, SQL, MongoDB)
-
----
 
 ### 🎓 Education
 
-* **Technology in Artificial Intelligence** - Faculdade SENAI Fatesg (In Progress, Est. 2028)
-* **B.Sc. in Computer Science** - Federal University of Goiás (UFG) (2015-2021)
-* **B.Sc. in Control and Automation Engineering** - PUC Goiás (2012-2014)
-
+* **Technology in Artificial Intelligence** - Faculdade SENAI Fatesg 
+* **B.Sc. in Computer Science** - Federal University of Goiás (UFG)
+  
 ### 📜 Certifications
 
 * Clean Core de Verdade
