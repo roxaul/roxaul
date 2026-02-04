@@ -34,11 +34,6 @@ Currently, I work as a **Data Analyst**, leveraging Microsoft SQL Server for sta
 
 * **Technology in Artificial Intelligence** - Faculdade SENAI Fatesg 
 * **B.Sc. in Computer Science** - Federal University of Goiás (UFG)
-  
-### 📜 Certifications
-
-* Clean Core de Verdade
-* SAP Overview
 
 ---
 
