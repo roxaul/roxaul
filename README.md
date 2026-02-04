@@ -1,77 +1,76 @@
-# Olá, eu sou Lauro Filipe! 👋
+# Hi there, I'm Lauro Filipe! 👋
 
-## 📊 Analista de Dados | Especialista em SQL, Python e Power BI
+## 📊 Data Analyst | SQL, Python & Power BI Specialist
 
-Profissional com sólida experiência em desenvolvimento, análise de dados e suporte técnico. Minha trajetória começou pela paixão por programação e jogos, evoluindo para a criação de soluções que unem tecnologia, eficiência e impacto real.
+I am a professional with solid experience in **Software Development**, **Data Analysis**, and **Technical Support**. [cite_start]My career began with a passion for programming and gaming, evolving into practical expertise ranging from infrastructure support (NOC) to system development and automation[cite: 14].
 
-Atualmente, foco em **Inteligência de Negócios (BI)**, **Agentes de IA** e **Engenharia de Dados**, com histórico de atuação em empresas de tecnologia, telecomunicações e saúde.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Dados & BI:**
-* Microsoft SQL Server
-* Power BI (DAX, Dashboards)
-* Python (Análise de Dados)
-* MongoDB
-* Lotus Notes
-
-**Desenvolvimento:**
-* ReactJS & React Native
-* Angular
-* Flutter
-* APIs REST
-* Git / GitHub
-
-**Infraestrutura & Outros:**
-* Infraestrutura de TI e Redes
-* Automação de Processos
-* Microsoft Office Avançado
-* Ferramentas de Transmissão (Broadcast)
+[cite_start]Currently, I work as a **Data Analyst**, leveraging Microsoft SQL Server for statistical analysis and Business Intelligence solutions[cite: 15]. [cite_start]I am also deeply focused on **Artificial Intelligence Agents** and **BI** strategies[cite: 6].
 
 ---
 
-### 💼 Experiência Profissional
+### 🛠️ Tech Stack & Tools
 
-**Analista de Dados e BI | Unymos Gestão e Sistemas**
-*Out 2024 - Nov 2025*
-* Responsável pela implantação de novos clientes, normalização e padronização de bases de dados.
-* Desenvolvimento de dashboards personalizados e relatórios analíticos (KPIs) com Power BI para apoio à tomada de decisão estratégica.
-* Realização de reuniões técnicas para alinhamento de regras de negócio e processos.
+**Data & BI:**
+* [cite_start]Microsoft SQL Server [cite: 27]
+* [cite_start]Power BI (Dashboards, KPIs) [cite: 37]
+* [cite_start]Python (Data Analysis) [cite: 11]
+* [cite_start]MongoDB [cite: 27]
+* [cite_start]Lotus Notes [cite: 27]
 
-**Analista de Suporte Nível 3 & NOC | Grupo Jet**
-*Jan 2023 - Out 2023*
-* Gestão e automação de processos de criação e acessos.
-* Atuação na linha de frente do projeto de licitação da Caixa (expedição, configuração e helpdesk).
-* Monitoramento de infraestrutura de rede e manutenção de aplicações.
+**Development:**
+* [cite_start]ReactJS & React Native [cite: 27]
+* [cite_start]Angular [cite: 27]
+* [cite_start]Flutter [cite: 27]
+* [cite_start]REST APIs [cite: 27]
+* [cite_start]Git / GitHub [cite: 27]
 
-**Experiências Anteriores:**
-* **Especialista em Suporte de TI** - Hospital das Clínicas da UFMG/EBSERH (2022-2023)
-* **Helpdesk Internacional** - GSB Solutions (Atendimento a clientes como Unilever e Amway)
-* **Produtora de Transmissão** - Liga GG (Broadcast de e-sports)
-* **Desenvolvedor Javascript** - Produzindo Certo (React Native)
-* **Estagiário Full-Stack** - Supera Inovação em Tecnologia (Angular, React, SQL, MongoDb)
-
----
-
-### 🎓 Formação Acadêmica
-
-* **Tecnologia em Inteligência Artificial** - Faculdade SENAI Fatesg (Em curso, Previsão: 2028)
-* **Bacharelado em Ciências da Computação** - Universidade Federal de Goiás (2015-2021)
-* **Engenharia de Controle e Automação** - PUC Goiás (2012-2014)
-
-### 📜 Certificações
-
-* Clean Core de Verdade
-* Overview SAP
+**Infrastructure & Others:**
+* [cite_start]IT Infrastructure & Networking [cite: 27]
+* [cite_start]Process Automation [cite: 19]
+* [cite_start]Broadcast & Streaming Tools [cite: 27]
 
 ---
 
-### 📫 Contato
+### 💼 Professional Experience
+
+**Data & BI Analyst | Unymos Gestão e Sistemas**
+[cite_start]*Oct 2024 - Nov 2025* [cite: 32, 33]
+* [cite_start]Responsible for the onboarding process of new clients, including **data normalization and standardization** to ensure integrity during migration[cite: 34, 35].
+* [cite_start]Developed personalized **Power BI dashboards** and analytical reports to visualize KPIs and support strategic decision-making[cite: 37].
+* [cite_start]Conducted technical meetings with clients to align business rules and processes[cite: 36].
+
+**Support Analyst (Level 3) & NOC | Grupo Jet**
+[cite_start]*Jan 2023 - Oct 2023* [cite: 52, 53, 54]
+* [cite_start]Managed and automated access creation flows and application processes[cite: 56].
+* [cite_start]acted on the frontline of the "Caixa" bidding project, handling device configuration, dispatch, and helpdesk support[cite: 56].
+* [cite_start]Monitored network infrastructure and maintained core applications[cite: 57].
+
+**Previous Experience:**
+* [cite_start]**IT Support Specialist** - Hospital das Clínicas UFMG/EBSERH (2022-2023) [cite: 58, 59]
+* [cite_start]**International Technical Support** - GSB Solutions (Served clients like Unilever and Amway) [cite: 64, 68]
+* [cite_start]**Broadcast Producer** - Liga GG (E-sports tournament broadcasting) [cite: 69, 73]
+* [cite_start]**Javascript Developer** - Produzindo Certo (React Native development) [cite: 75, 79]
+* [cite_start]**Full-Stack Intern** - Supera Inovação (Angular, React, SQL, MongoDB) [cite: 85, 87]
+
+---
+
+### 🎓 Education
+
+* [cite_start]**Technology in Artificial Intelligence** - Faculdade SENAI Fatesg (In Progress, Est. 2028) [cite: 98]
+* [cite_start]**B.Sc. in Computer Science** - Federal University of Goiás (UFG) (2015-2021) [cite: 95, 96]
+* [cite_start]**B.Sc. in Control and Automation Engineering** - PUC Goiás (2012-2014) [cite: 104, 105]
+
+### 📜 Certifications
+
+* [cite_start]Clean Core de Verdade [cite: 8]
+* [cite_start]SAP Overview [cite: 9]
+
+---
+
+### 📫 Contact
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro-filipe-lima-lobo-5148b3104)
 * 📧 **Email:** laurofilipe@gmail.com
 
 ---
-*Perfil gerado com base no meu currículo profissional.*
+*Profile based on my professional resume.*
